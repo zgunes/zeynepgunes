@@ -25,7 +25,7 @@ else <br/>{ <br/>
 ### Contact Me 📱
 
 <a href="https://www.linkedin.com/in/zeynepgunes/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" height="30" width="30" /></a>
-<a href="zeynepgunes11@gmail.com" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" height="30" width="30" /></a>
+<a href="mailto:zeynepgunes11@gmail.com" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" height="30" width="30" /></a>
 <a href="https://medium.com/@zeynepgunes11" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" height="30" width="30" /></a>
 
  
