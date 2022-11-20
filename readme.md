@@ -24,9 +24,10 @@ else <br/>{ <br/>
 
 ### Contact Me 📱
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/> <a href="https://www.linkedin.com/in/zeynepgunes/"> </a> </img>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg"  align="left"/> <a href="zeynepgunes11@gmail.com"> </a> </img>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/medium.svg"  align="left"/> <a href="https://medium.com/@zeynepgunes11"> </a> </img>
+<a href="https://www.linkedin.com/in/zeynepgunes/" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" height="30" width="30" /></a>
+<a href="zeynepgunes11@gmail.com" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" height="30" width="30" /></a>
+<a href="https://medium.com/@zeynepgunes11" target="blank"><img align="left" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" height="30" width="30" /></a>
+
  
 <br/>
 <br/>
