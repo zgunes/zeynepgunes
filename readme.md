@@ -17,7 +17,7 @@ else <br/>{ <br/>
 ### About Me ✌️
 
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></g-emoji> I’m currently learning<strong> C#, HTML, CSS </strong>and using <strong> JavaScript, SQL and Python</strong>.</li>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></g-emoji> I’m currently using<strong> C#, HTML, CSS </strong>and learning <strong> JavaScript, SQL and Python</strong>.</li>
 <li><g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩&zwj;💻</g-emoji></g-emoji> I graduated from Computer Programing and now I studying Management Information Systems.</li>
 <li><g-emoji class="g-emoji" alias="call_me_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f919.png">🤙</g-emoji> How to reach me  <strong><a href="mailto:zeynepgunes11@gmail.com"> <g-emoji class="g-emoji" alias="arrow_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png">➡️</g-emoji> zeynepgunes11@gmail.com</a></strong></li>
 </ul>
