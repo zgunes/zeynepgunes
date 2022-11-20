@@ -3,7 +3,7 @@
 ### Hi There I'm Zeynep :dizzy:	
 ## Programmer | Interested about Cyber Security & Front-End Development
 
-<font color="green" font size=4> while( ! (succeed = try() ));</font>
+<span style="color:green" font size=4 >while( ! (succeed = try() ));</span>
 
 <!--<font color="green" font size=3> if(brain!=empty)<br/>
 { <br/>
