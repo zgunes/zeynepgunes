@@ -1,7 +1,7 @@
 <img src="https://media1.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?cid=ecf05e478wf5eqex7qgs9jvdctyyemkjtankxveza57p4tb4&rid=giphy.gif&ct=g" align="right" width="300px">
 
 ### Hi There I'm Zeynep :dizzy:	
-## Programmer | Interested about Cyber Security & Front-End/Back-End Development
+## Programmer | Interested about Cyber Security & <br> Front-End/Back-End Development
 
 <span style="color:green" font size=4 >while( ! (succeed = try() ));</span>
 
